@@ -1,0 +1,2626 @@
+[
+  {
+    "id": "ex-001",
+    "title": "Hold Me Longer",
+    "image": "media/ex-001.png",
+    "method_of_making": "Graphic design - Illustration",
+    "animation": "Static",
+    "perceptual_realism": "Intermediate",
+    "encodings": [
+      "Size",
+      "Bend"
+    ],
+    "contextual": [
+      "Simple Materials",
+      "Compress",
+      "Simple Materials",
+      "Shape",
+      "Spatial Arrangement - Alignment"
+    ],
+    "mechanisms": [],
+    "link": "https://www.behance.net/gallery/134157179/Data-Doodles-2021"
+  },
+  {
+    "id": "ex-002",
+    "title": "Air Transformed",
+    "image": "media/ex-002.png",
+    "method_of_making": "Photograph of physical artefact",
+    "animation": "Static",
+    "perceptual_realism": "High",
+    "encodings": [
+      "Size",
+      "Shape",
+      "Simple Materials",
+      "Position"
+    ],
+    "contextual": [
+      "Spatial Arrangement - Stacking",
+      "Environment / Background"
+    ],
+    "mechanisms": [],
+    "link": "https://www.stefanieposavec.com/projects/airtransformed"
+  },
+  {
+    "id": "ex-003",
+    "title": "Percentage of Catholics",
+    "image": "media/ex-003.png",
+    "method_of_making": "Photograph of physical artefact",
+    "animation": "Static",
+    "perceptual_realism": "High",
+    "encodings": [
+      "Size",
+      "Count",
+      "Position"
+    ],
+    "contextual": [
+      "Shape",
+      "Simple Materials",
+      "Spatial Arrangement - Stacking",
+      "Spatial Arrangement - Alignment",
+      "Environment / Background",
+      "Lighting"
+    ],
+    "mechanisms": [],
+    "link": "https://www.instagram.com/p/C0_sIkCNd8H/?img_index=2"
+  },
+  {
+    "id": "ex-004",
+    "title": "Noway Norway",
+    "image": "media/ex-004.png",
+    "method_of_making": "Graphic design - Illustration",
+    "animation": "Static",
+    "perceptual_realism": "Intermediate",
+    "encodings": [
+      "Size",
+      "Shape",
+      "Position",
+      "Segment / Cut"
+    ],
+    "contextual": [
+      "Simple Materials",
+      "Shape",
+      "Shape",
+      "Simple Materials",
+      "Shape"
+    ],
+    "mechanisms": [],
+    "link": "https://www.behance.net/gallery/87757735/Chit-Chart?tracking_source=search_projects_featured_date%7Cinfographic#"
+  },
+  {
+    "id": "ex-005",
+    "title": "Garbage Dumps in the Ocean",
+    "image": "media/ex-005.png",
+    "method_of_making": "3D render",
+    "animation": "Static",
+    "perceptual_realism": "Intermediate",
+    "encodings": [
+      "Simple Materials",
+      "Size",
+      "Count",
+      "Position"
+    ],
+    "contextual": [
+      "Simple Materials",
+      "Shape",
+      "Spatial Arrangement - Scattering",
+      "Spatial Arrangement - Stacking",
+      "Lighting",
+      "Camera"
+    ],
+    "mechanisms": [],
+    "link": "https://scicom-lab.com/project/explore-the-ocean"
+  },
+  {
+    "id": "ex-006",
+    "title": "The strategic markets",
+    "image": "media/ex-006.png",
+    "method_of_making": "Unknown",
+    "animation": "Static",
+    "perceptual_realism": "High",
+    "encodings": [
+      "Position",
+      "Simple Materials",
+      "Size"
+    ],
+    "contextual": [
+      "Shape",
+      "Spatial Arrangement - Other",
+      "Lighting",
+      "Environment / Background"
+    ],
+    "mechanisms": [],
+    "link": "https://infogra.ru/infographics/infografika-adriana-atta"
+  },
+  {
+    "id": "ex-007",
+    "title": "Rising Sea Levels",
+    "description": "he data visualization poster is designed to highlight why rising sea level matters. Each island floating represents one of the 10 countries the most affected by the sea-level rise. The extent to which these islands are located vertically symbolizes the millions of people from these countries that will also be underwater. If countries continue to produce greenhouse gas following the same trajectory (RCP 4.5), homes of now more than 200 million people could fall permanently below the high tide line by 2100. By limiting our gas emissions (RCP 2.6), we could save millions of lives from floods and countries from catastrophic human and economic consequences.",
+    "image": "media/ex-007.png",
+    "method_of_making": "Graphic design - Illustration",
+    "animation": "Static",
+    "perceptual_realism": "Intermediate",
+    "encodings": [
+      "Position",
+      "Simple Materials",
+      "Shape",
+      "Size",
+      "Other",
+      "Position"
+    ],
+    "contextual": [
+      "Spatial Arrangement - Alignment",
+      "Shape",
+      "Simple Materials",
+      "Camera",
+      "Lighting"
+    ],
+    "mechanisms": [],
+    "link": "https://www.behance.net/gallery/118410403/Rising-Sea-Levels-a-DataViz-Collaboration"
+  },
+  {
+    "id": "ex-008",
+    "title": "Nantes Metropole",
+    "image": "media/ex-008.png",
+    "method_of_making": "Graphic design - Illustration",
+    "animation": "Static",
+    "perceptual_realism": "Very high",
+    "encodings": [
+      "Size",
+      "Simple Materials",
+      "Position"
+    ],
+    "contextual": [
+      "Shape",
+      "Simple Materials",
+      "Spatial Arrangement - Stacking",
+      "Lighting",
+      "Camera"
+    ],
+    "mechanisms": [
+      "Rigid-Body Mechanics"
+    ],
+    "link": "http://rokovoko.fr/realisations/la-cantine"
+  },
+  {
+    "id": "ex-009",
+    "title": "Structure of Daugavpils municipality expenditures",
+    "description": "36% Izglītība = Education\n15% Citi = Other\n7% Izpildvaras izdevumi = Executive / administration expenses\n11% Sociālā aizsardzība = Social protection\n31% Ekonomiskā darbība = Economic activity",
+    "image": "media/ex-009.png",
+    "method_of_making": "Photograph of physical artefact",
+    "animation": "Static",
+    "perceptual_realism": "High",
+    "encodings": [
+      "Size",
+      "Segment / Cut",
+      "Position"
+    ],
+    "contextual": [
+      "Simple Materials",
+      "Shape",
+      "Spatial Arrangement - Other",
+      "Environment / Background",
+      "Lighting"
+    ],
+    "mechanisms": [],
+    "link": "https://www.behance.net/gallery/3565949/Municipal-expense"
+  },
+  {
+    "id": "ex-010",
+    "title": "Carbon Dioxide Savings",
+    "image": "media/ex-010.png",
+    "method_of_making": "3D render",
+    "animation": "Static",
+    "perceptual_realism": "Intermediate",
+    "encodings": [
+      "Size",
+      "Position",
+      "Size",
+      "Size"
+    ],
+    "contextual": [
+      "Shape",
+      "Simple Materials",
+      "Spatial Arrangement - Stacking",
+      "Simple Materials",
+      "Shape",
+      "Camera",
+      "Lighting"
+    ],
+    "mechanisms": [],
+    "link": "https://www.visualcapitalist.com/emissions-change-fortune-500/"
+  },
+  {
+    "id": "ex-011",
+    "title": "Cargo Leaders",
+    "image": "media/ex-011.png",
+    "method_of_making": "Graphic design - Illustration",
+    "animation": "Static",
+    "perceptual_realism": "Intermediate",
+    "encodings": [
+      "Size",
+      "Lighting",
+      "Position",
+      "Shape",
+      "Simple Materials"
+    ],
+    "contextual": [
+      "Simple Materials",
+      "Spatial Arrangement - Alignment",
+      "Shape",
+      "Simple Materials",
+      "Camera",
+      "Lighting"
+    ],
+    "mechanisms": [],
+    "link": "https://chitchart.com/chart/worlds-top-export-countries"
+  },
+  {
+    "id": "ex-012",
+    "title": "Who Owns Helium",
+    "image": "media/ex-012.png",
+    "method_of_making": "Other",
+    "animation": "Static",
+    "perceptual_realism": "High",
+    "encodings": [
+      "Size",
+      "Simple Materials",
+      "Position",
+      "Size",
+      "Size"
+    ],
+    "contextual": [
+      "Shape",
+      "Simple Materials",
+      "Spatial Arrangement - Other",
+      "Shape",
+      "Simple Materials",
+      "Simple Materials",
+      "Shape",
+      "Environment / Background",
+      "Lighting",
+      "Camera"
+    ],
+    "mechanisms": [],
+    "link": "https://www.voronoiapp.com/natural-resources/Who-Owns-Helium-6913"
+  },
+  {
+    "id": "ex-013",
+    "title": "Handmade Visualization Toolkit",
+    "image": "media/ex-013.png",
+    "method_of_making": "Photograph of physical artefact",
+    "animation": "Static",
+    "perceptual_realism": "Very high",
+    "encodings": [
+      "Size",
+      "Simple Materials",
+      "Position"
+    ],
+    "contextual": [
+      "Shape",
+      "Simple Materials",
+      "Other",
+      "Environment / Background",
+      "Lighting",
+      "Camera"
+    ],
+    "mechanisms": [
+      "Rigid-Body Mechanics"
+    ],
+    "link": "https://dataphys.org/list/jose-duartes-handmade-visualization-toolkit/"
+  },
+  {
+    "id": "ex-014",
+    "title": "The World’s Largest Merchant Marine Fleets",
+    "image": "media/ex-014.png",
+    "method_of_making": "Graphic design - Illustration",
+    "animation": "Static",
+    "perceptual_realism": "Low",
+    "encodings": [
+      "Size",
+      "Simple Materials",
+      "Position"
+    ],
+    "contextual": [
+      "Shape",
+      "Simple Materials",
+      "Spatial Arrangement - Packing",
+      "Shape",
+      "Simple Materials",
+      "Camera",
+      "Environment / Background"
+    ],
+    "mechanisms": [],
+    "link": "https://www.voronoiapp.com/economy/The-Worlds-Largest-Merchant-Marine-Fleets--6770"
+  },
+  {
+    "id": "ex-015",
+    "title": "Pandemic and Creativity Report",
+    "image": "media/ex-015.png",
+    "method_of_making": "Graphic design - Illustration",
+    "animation": "Static",
+    "perceptual_realism": "Intermediate",
+    "encodings": [
+      "Size",
+      "Simple Materials"
+    ],
+    "contextual": [
+      "Spatial Arrangement - Stacking",
+      "Simple Materials",
+      "Shape",
+      "Simple Materials",
+      "Shape"
+    ],
+    "mechanisms": [],
+    "link": "https://www.behance.net/gallery/109802031/Data-Illustrations-WePresent-Ideas-Report-2020"
+  },
+  {
+    "id": "ex-016",
+    "title": "Countries with Highest Amount of Vegetarians",
+    "image": "media/ex-016.png",
+    "method_of_making": "Photograph of physical artefact",
+    "animation": "Static",
+    "perceptual_realism": "High",
+    "encodings": [
+      "Size",
+      "Count",
+      "Position"
+    ],
+    "contextual": [
+      "Simple Materials",
+      "Shape",
+      "Segment / Cut",
+      "Spatial Arrangement - Stacking",
+      "Spatial Arrangement - Alignment",
+      "Environment / Background",
+      "Camera"
+    ],
+    "mechanisms": [
+      "Deformable Solid Mechanics",
+      "Deformable Solid Mechanics",
+      "Deformable Solid Mechanics",
+      "Rigid-Body Mechanics",
+      "Rigid-Body Mechanics"
+    ],
+    "link": "https://www.behance.net/gallery/82653729/Information-Design"
+  },
+  {
+    "id": "ex-017",
+    "title": "Average Salary in Ibero-American Territories",
+    "image": "media/ex-017.png",
+    "method_of_making": "Graphic design - Illustration",
+    "animation": "Static",
+    "perceptual_realism": "Low",
+    "encodings": [
+      "Size",
+      "Position"
+    ],
+    "contextual": [
+      "Spatial Arrangement - Alignment",
+      "Camera",
+      "Environment / Background"
+    ],
+    "mechanisms": [],
+    "link": "https://www.instagram.com/p/CpJ3LzujLAZ/"
+  },
+  {
+    "id": "ex-018",
+    "title": "Life & Death",
+    "image": "media/ex-018.png",
+    "method_of_making": "Photograph of physical artefact",
+    "animation": "Static",
+    "perceptual_realism": "Very high",
+    "encodings": [
+      "Simple Materials",
+      "Size",
+      "Segment / Cut",
+      "Size",
+      "Shape"
+    ],
+    "contextual": [
+      "Spatial Arrangement - Other",
+      "Camera",
+      "Environment / Background"
+    ],
+    "mechanisms": [],
+    "link": "https://blog.chloesilver.ca/2015/03/photorealistic-infographics.html"
+  },
+  {
+    "id": "ex-019",
+    "title": "Largest Labor Forces by Country",
+    "image": "media/ex-019.png",
+    "method_of_making": "Other",
+    "animation": "Static",
+    "perceptual_realism": "Low",
+    "encodings": [
+      "Size",
+      "Position",
+      "Simple Materials",
+      "Position"
+    ],
+    "contextual": [
+      "Other",
+      "Simple Materials",
+      "Spatial Arrangement - Packing",
+      "Environment / Background"
+    ],
+    "mechanisms": [],
+    "link": "https://www.voronoiapp.com/work/Ranked-Largest-Labor-Forces-by-Country-6912"
+  },
+  {
+    "id": "ex-020",
+    "title": "Materialism",
+    "description": "Bicycle (Gazelle), 2019, a “bicycle presented as chunks of rubber, polyurethane, steel, aluminium and lacquer paint, among many others”.\n\nIn the Materialism series, the Dutch duo Studio Drift takes apart technological objects and use cubes and prisms to convey the raw materials they are made of. Although those data sculptures are conceptually physical rearrangements, the artists actually weigh the different components and create the prisms from scratch using new material. This new material often only looks like the original material due to practical constraints.",
+    "image": "media/ex-020.png",
+    "method_of_making": "Photograph of physical artefact",
+    "animation": "Static",
+    "perceptual_realism": "High",
+    "encodings": [
+      "Size",
+      "Simple Materials",
+      "Position"
+    ],
+    "contextual": [
+      "Shape",
+      "Spatial Arrangement - Other",
+      "Environment / Background",
+      "Camera"
+    ],
+    "mechanisms": [
+      "Rigid-Body Mechanics"
+    ],
+    "link": "https://dataphys.org/list/materialism/"
+  },
+  {
+    "id": "ex-021",
+    "title": "Coral Reefs",
+    "image": "media/ex-021.png",
+    "method_of_making": "Photograph of physical artefact",
+    "animation": "Static",
+    "perceptual_realism": "Very high",
+    "encodings": [
+      "Position",
+      "Size",
+      "Position",
+      "Position"
+    ],
+    "contextual": [
+      "Shape",
+      "Simple Materials",
+      "Spatial Arrangement - Alignment",
+      "Camera",
+      "Lighting"
+    ],
+    "mechanisms": [],
+    "link": "https://www.voronoiapp.com/work/Ranked-Largest-Labor-Forces-by-Country-6912"
+  },
+  {
+    "id": "ex-022",
+    "title": "Dino Dinner",
+    "image": "media/ex-022.png",
+    "method_of_making": "Graphic design - Illustration",
+    "animation": "Static",
+    "perceptual_realism": "Intermediate",
+    "encodings": [
+      "Size",
+      "Simple Materials",
+      "Shape"
+    ],
+    "contextual": [
+      "Spatial Arrangement - Other"
+    ],
+    "mechanisms": [
+      "Beyond-Physics"
+    ],
+    "link": "https://chitchart.com/tags/dinner"
+  },
+  {
+    "id": "ex-023",
+    "title": "Dog Poo Picked Up per Month",
+    "image": "media/ex-023.png",
+    "method_of_making": "Photograph of physical artefact",
+    "animation": "Static",
+    "perceptual_realism": "High",
+    "encodings": [
+      "Fold / Unfold",
+      "Size",
+      "Position"
+    ],
+    "contextual": [
+      "Shape",
+      "Simple Materials",
+      "Spatial Arrangement - Alignment",
+      "Environment / Background",
+      "Camera"
+    ],
+    "mechanisms": [],
+    "link": "https://www.instagram.com/p/CB8thO2FaJX/"
+  },
+  {
+    "id": "ex-024",
+    "title": "Forest in Peace",
+    "image": "media/ex-024.png",
+    "method_of_making": "Graphic design - Illustration",
+    "animation": "Static",
+    "perceptual_realism": "Intermediate",
+    "encodings": [
+      "Size",
+      "Position"
+    ],
+    "contextual": [
+      "Simple Materials",
+      "Shape",
+      "Spatial Arrangement - Alignment",
+      "Segment / Cut",
+      "Shape"
+    ],
+    "mechanisms": [
+      "Deformable Solid Mechanics"
+    ],
+    "link": "https://chitchart.com/tags/deforestation"
+  },
+  {
+    "id": "ex-025",
+    "title": "Cucumbers and Melons",
+    "image": "media/ex-025.png",
+    "method_of_making": "Photograph of physical artefact",
+    "animation": "Static",
+    "perceptual_realism": "Very high",
+    "encodings": [
+      "Size",
+      "Position"
+    ],
+    "contextual": [
+      "Shape",
+      "Simple Materials",
+      "Spatial Arrangement - Other",
+      "Segment / Cut",
+      "Camera",
+      "Lighting",
+      "Environment / Background"
+    ],
+    "mechanisms": [
+      "Rigid-Body Mechanics",
+      "Deformable Solid Mechanics"
+    ],
+    "link": "https://www.adsoftheworld.com/campaigns/cucumbers-and-melons"
+  },
+  {
+    "id": "ex-026",
+    "title": "Difficulty of children",
+    "image": "media/ex-026.png",
+    "method_of_making": "Graphic design - Illustration",
+    "animation": "Static",
+    "perceptual_realism": "Low",
+    "encodings": [
+      "Size",
+      "Other"
+    ],
+    "contextual": [
+      "Simple Materials",
+      "Shape",
+      "Spatial Arrangement - Alignment"
+    ],
+    "mechanisms": [],
+    "link": "https://www.instagram.com/p/C0gl7clNltU/"
+  },
+  {
+    "id": "ex-027",
+    "title": "Global Tree Cover Loss",
+    "image": "media/ex-027.png",
+    "method_of_making": "Photograph of physical artefact",
+    "animation": "Static",
+    "perceptual_realism": "High",
+    "encodings": [
+      "Size",
+      "Position"
+    ],
+    "contextual": [
+      "Simple Materials",
+      "Shape",
+      "Spatial Arrangement - Alignment",
+      "Lighting",
+      "Camera"
+    ],
+    "mechanisms": [
+      "Rigid-Body Mechanics"
+    ],
+    "link": "https://www.behance.net/gallery/82653729/Information-Design"
+  },
+  {
+    "id": "ex-028",
+    "title": "Your Phone Materials",
+    "image": "media/ex-028.png",
+    "method_of_making": "Photograph of physical artefact",
+    "animation": "Static",
+    "perceptual_realism": "High",
+    "encodings": [
+      "Simple Materials",
+      "Shape",
+      "Position"
+    ],
+    "contextual": [
+      "Spatial Arrangement - Other",
+      "Lighting"
+    ],
+    "mechanisms": [],
+    "link": "https://www.behance.net/gallery/14087701/Your-phone"
+  },
+  {
+    "id": "ex-029",
+    "title": "Which Economies Rely on International Trade",
+    "image": "media/ex-029.png",
+    "method_of_making": "Graphic design - Illustration",
+    "animation": "Static",
+    "perceptual_realism": "Low",
+    "encodings": [
+      "Stretch",
+      "Size",
+      "Position",
+      "Position"
+    ],
+    "contextual": [
+      "Shape",
+      "Simple Materials",
+      "Shape",
+      "Simple Materials",
+      "Spatial Arrangement - Alignment",
+      "Environment / Background"
+    ],
+    "mechanisms": [],
+    "link": "https://www.voronoiapp.com/trade/Which-Economies-Rely-on-International-Trade-the-Most--6958"
+  },
+  {
+    "id": "ex-030",
+    "title": "Garbage Dumps in the Ocean Size",
+    "image": "media/ex-030.png",
+    "method_of_making": "3D render",
+    "animation": "Static",
+    "perceptual_realism": "Intermediate",
+    "encodings": [
+      "Size",
+      "Count",
+      "Size",
+      "Position",
+      "Break / Shatter"
+    ],
+    "contextual": [
+      "Shape",
+      "Simple Materials",
+      "Spatial Arrangement - Concentration",
+      "Spatial Arrangement - Stacking",
+      "Lighting",
+      "Camera"
+    ],
+    "mechanisms": [
+      "Force Fields & Particles",
+      "Force Fields & Particles"
+    ],
+    "link": "https://scicom-lab.com/project/explore-the-ocean"
+  },
+  {
+    "id": "ex-031",
+    "title": "The Cost of Wind",
+    "image": "media/ex-031.png",
+    "method_of_making": "Graphic design - Illustration",
+    "animation": "Static",
+    "perceptual_realism": "High",
+    "encodings": [
+      "Simple Materials",
+      "Size",
+      "Position",
+      "Position",
+      "Position",
+      "Size",
+      "Size"
+    ],
+    "contextual": [
+      "Shape",
+      "Simple Materials",
+      "Spatial Arrangement - Alignment",
+      "Shape",
+      "Simple Materials",
+      "Shape",
+      "Simple Materials",
+      "Simple Materials",
+      "Environment / Background",
+      "Camera",
+      "Lighting"
+    ],
+    "mechanisms": [],
+    "link": "https://www.voronoiapp.com/energy/The-cost-of-wind-visualized-3275"
+  },
+  {
+    "id": "ex-032",
+    "title": "Haptics of wonder",
+    "description": "Needle Penetration: This is a value indicating the hardness of a material. A needle of fixed weight is entered vertically into a test piece to measure the length it entered. Needle penetration: 1 means 1/10 mm, and higher numbers mean that the material is softer.\n\nAsker C: \nAsker C is a measuring device to measure hardness of materials that are harder than those measured in a needle penetration test. Asker C: 1 indicates that the value measured with an Asker C hardness scale is 1, and larger numbers indicate a harder material.\n\nRebound Resilience:\nThis shows the ratio of rebound against the height an object falls from when a test piece is struck by a falling object with a given mass from a given height. A high number indicates that the object bounces back into the air. 0 indicates the object's fall is completely absorbed.",
+    "image": "media/ex-032.png",
+    "method_of_making": "Graphic design - Illustration",
+    "animation": "Dynamic",
+    "perceptual_realism": "Intermediate",
+    "encodings": [
+      "Other",
+      "Simple Materials",
+      "Other",
+      "Shape",
+      "Shape",
+      "Simple Materials",
+      "Position"
+    ],
+    "contextual": [
+      "Spatial Arrangement - Other"
+    ],
+    "mechanisms": [],
+    "link": "https://taica.co.jp/gel/collection/haptics/en/"
+  },
+  {
+    "id": "ex-033",
+    "title": "State of the World as Population Pyramids",
+    "description": "Each chart is a population pyramid for one country. It has one layer for every age from 0 to 100. The diameter of each layer shows the population at that age.",
+    "image": "media/ex-033.png",
+    "method_of_making": "Photograph of physical artefact",
+    "animation": "Static",
+    "perceptual_realism": "High",
+    "encodings": [
+      "Shape",
+      "Position"
+    ],
+    "contextual": [
+      "Simple Materials",
+      "Other",
+      "Environment / Background",
+      "Lighting",
+      "Camera"
+    ],
+    "mechanisms": [],
+    "link": "https://www.designboom.com/art/mathieu-lehanneur-state-world-population-aluminum-sculptures-art-basel-design-miami-09-26-2021/"
+  },
+  {
+    "id": "ex-034",
+    "title": "Company Value in the Stock Exchange",
+    "image": "media/ex-034.png",
+    "method_of_making": "Graphic design - Illustration",
+    "animation": "Static",
+    "perceptual_realism": "Low",
+    "encodings": [
+      "Size",
+      "Other",
+      "Position"
+    ],
+    "contextual": [
+      "Shape",
+      "Simple Materials",
+      "Spatial Arrangement - Alignment"
+    ],
+    "mechanisms": [],
+    "link": "https://www.behance.net/gallery/29565285/Guebretas-Annual-Report-2014"
+  },
+  {
+    "id": "ex-035",
+    "title": "Map of Corn Production Using Candy Corn",
+    "image": "media/ex-035.png",
+    "method_of_making": "Photograph of physical artefact",
+    "animation": "Static",
+    "perceptual_realism": "High",
+    "encodings": [
+      "Size",
+      "Shape",
+      "Simple Materials",
+      "Position",
+      "Simple Materials"
+    ],
+    "contextual": [
+      "Spatial Arrangement - Geographical",
+      "Environment / Background",
+      "Lighting"
+    ],
+    "mechanisms": [],
+    "link": "https://dataphys.org/list/corn-production/"
+  },
+  {
+    "id": "ex-036",
+    "title": "Digital Pots",
+    "image": "media/ex-036.png",
+    "method_of_making": "Photograph of physical artefact",
+    "animation": "Static",
+    "perceptual_realism": "High",
+    "encodings": [
+      "Size",
+      "Surface",
+      "Shape",
+      "Position"
+    ],
+    "contextual": [
+      "Simple Materials",
+      "Shape",
+      "Spatial Arrangement - Alignment",
+      "Lighting",
+      "Environment / Background"
+    ],
+    "mechanisms": [],
+    "link": "http://www.keep-art.co.uk/digitial_sound.html"
+  },
+  {
+    "id": "ex-037",
+    "title": "For Every 1 Dollar a White Man Earns",
+    "image": "media/ex-037.png",
+    "method_of_making": "Photograph of physical artefact",
+    "animation": "Static",
+    "perceptual_realism": "High",
+    "encodings": [
+      "Size",
+      "Fold / Unfold",
+      "Position"
+    ],
+    "contextual": [
+      "Shape",
+      "Simple Materials",
+      "Spatial Arrangement - Other",
+      "Camera",
+      "Environment / Background"
+    ],
+    "mechanisms": [],
+    "link": "https://www.theguardian.com/us-news/datablog/2017/apr/04/equal-pay-day-us-wage-gap-gender-race-ethnicity"
+  },
+  {
+    "id": "ex-038",
+    "title": "Automating Sustainability for the Venice Biennale",
+    "description": "Video Segment: 1:05-1:29.\nMaterial is shown by the color and 3D pattern of the block.\nMaterial amount is shown by height of the block.\nEmbodied carbon is shown by the erosion of the block.",
+    "image": "media/ex-038.png",
+    "method_of_making": "3D render",
+    "animation": "Dynamic",
+    "perceptual_realism": "High",
+    "encodings": [
+      "Size",
+      "Other",
+      "Simple Materials",
+      "Other",
+      "Position"
+    ],
+    "contextual": [
+      "Spatial Arrangement - Stacking",
+      "Spatial Arrangement - Alignment",
+      "Camera",
+      "Environment / Background",
+      "Lighting"
+    ],
+    "mechanisms": [
+      "Rigid-Body Mechanics"
+    ],
+    "link": "https://www.heyhush.com/work/37-automating-sustainability-for-the-venice-biennale"
+  },
+  {
+    "id": "ex-039",
+    "title": "Time is Running Out 2",
+    "description": "Video Segment: 0:05-0:45.",
+    "image": "media/ex-039.png",
+    "method_of_making": "3D render",
+    "animation": "Dynamic",
+    "perceptual_realism": "Intermediate",
+    "encodings": [
+      "Size",
+      "Simple Materials",
+      "Count",
+      "Size",
+      "Size"
+    ],
+    "contextual": [
+      "Position",
+      "Orientation",
+      "Simple Materials",
+      "Spatial Arrangement - Scattering",
+      "Shape",
+      "Simple Materials",
+      "Camera",
+      "Lighting",
+      "Environment / Background"
+    ],
+    "mechanisms": [
+      "Rigid-Body Mechanics",
+      "Rigid-Body Mechanics",
+      "Force Fields & Particles"
+    ],
+    "link": "https://www.realworldvisuals.com/rwv-projects/time-is-running-out"
+  },
+  {
+    "id": "ex-040",
+    "title": "Blaue Blumen: Handcrafted Offline Data Visualization of Population Density",
+    "image": "media/ex-040.png",
+    "method_of_making": "Photograph of physical artefact",
+    "animation": "Dynamic",
+    "perceptual_realism": "High",
+    "encodings": [
+      "Size",
+      "Position"
+    ],
+    "contextual": [
+      "Shape",
+      "Simple Materials",
+      "Spatial Arrangement - Geographical",
+      "Shape",
+      "Simple Materials",
+      "Orientation",
+      "Lighting"
+    ],
+    "mechanisms": [],
+    "link": "https://dataphys.org/list/blaue-blumen-handcrafted-offline-data-visualization-of-population-density/"
+  },
+  {
+    "id": "ex-041",
+    "title": "Visualizing Costco’s Global Presence",
+    "image": "media/ex-041.png",
+    "method_of_making": "Graphic design - Illustration",
+    "animation": "Static",
+    "perceptual_realism": "Low",
+    "encodings": [
+      "Size",
+      "Position",
+      "Simple Materials"
+    ],
+    "contextual": [
+      "Spatial Arrangement - Other",
+      "Environment / Background",
+      "Camera",
+      "Shape",
+      "Simple Materials"
+    ],
+    "mechanisms": [],
+    "link": "https://www.voronoiapp.com/business/Visualizing-Costcos-Global-Presence-150"
+  },
+  {
+    "id": "ex-042",
+    "title": "Reasons for women jurors",
+    "image": "media/ex-042.png",
+    "method_of_making": "Photograph of physical artefact",
+    "animation": "Static",
+    "perceptual_realism": "High",
+    "encodings": [
+      "Size",
+      "Segment / Cut",
+      "Position"
+    ],
+    "contextual": [
+      "Shape",
+      "Simple Materials",
+      "Spatial Arrangement - Stacking",
+      "Simple Materials",
+      "Shape",
+      "Lighting"
+    ],
+    "mechanisms": [],
+    "link": "https://www.behance.net/gallery/27852263/Club-de-Creativos-y-de-Creativas-Cucumbers-and-Melons"
+  },
+  {
+    "id": "ex-043",
+    "title": "Human Induced Farmland degradation",
+    "description": "Roughly 33% of the world’s farmland — about 566 million hectares — is degraded due to human activity, threatening food security and ecosystem health.",
+    "image": "media/ex-043.png",
+    "method_of_making": "Graphic design - Illustration",
+    "animation": "Static",
+    "perceptual_realism": "High",
+    "encodings": [
+      "Material Transformations",
+      "Position",
+      "Size"
+    ],
+    "contextual": [
+      "Spatial Arrangement - Other",
+      "Shape",
+      "Environment / Background",
+      "Camera",
+      "Lighting",
+      "Shape",
+      "Simple Materials",
+      "Position"
+    ],
+    "mechanisms": [],
+    "link": "https://www.voronoiapp.com/agriculture/Human-Induced-farmland-degradation-visualized-4542"
+  },
+  {
+    "id": "ex-044",
+    "title": "Rooms on the Market",
+    "image": "media/ex-044.png",
+    "method_of_making": "Graphic design - Illustration",
+    "animation": "Static",
+    "perceptual_realism": "Intermediate",
+    "encodings": [
+      "Size",
+      "Simple Materials",
+      "Other",
+      "Position"
+    ],
+    "contextual": [
+      "Spatial Arrangement - Packing",
+      "Environment / Background",
+      "Camera"
+    ],
+    "mechanisms": [],
+    "link": "https://www.madevisual.co/rooms-on-the-market-global-vacancy-by-category/"
+  },
+  {
+    "id": "ex-045",
+    "title": "Who's Your Father Star Wars",
+    "image": "media/ex-045.png",
+    "method_of_making": "Graphic design - Illustration",
+    "animation": "Dynamic",
+    "perceptual_realism": "Low",
+    "encodings": [
+      "Size",
+      "Position",
+      "Simple Materials",
+      "Simple Materials",
+      "Shape",
+      "Position"
+    ],
+    "contextual": [
+      "Spatial Arrangement - Alignment",
+      "Other",
+      "Orientation"
+    ],
+    "mechanisms": [],
+    "link": "https://chitchart.com/chart/star-wars"
+  },
+  {
+    "id": "ex-046",
+    "title": "Most Airports Worldwide",
+    "image": "media/ex-046.png",
+    "method_of_making": "Graphic design - Illustration",
+    "animation": "Static",
+    "perceptual_realism": "High",
+    "encodings": [
+      "Size",
+      "Position"
+    ],
+    "contextual": [
+      "Other",
+      "Simple Materials",
+      "Shape",
+      "Spatial Arrangement - Alignment",
+      "Shape",
+      "Simple Materials",
+      "Shape",
+      "Simple Materials"
+    ],
+    "mechanisms": [
+      "Wind"
+    ],
+    "link": "https://chitchart.com/chart/most-airports-worldwide"
+  },
+  {
+    "id": "ex-047",
+    "title": "What's in a phone?",
+    "description": "Video Segment: 1:28-2:16.",
+    "image": "media/ex-047.png",
+    "method_of_making": "3D render",
+    "animation": "Dynamic",
+    "perceptual_realism": "Very high",
+    "encodings": [
+      "Size",
+      "Simple Materials",
+      "Position",
+      "Simple Materials",
+      "Position",
+      "Size",
+      "Size"
+    ],
+    "contextual": [
+      "Spatial Arrangement - Alignment",
+      "Spatial Arrangement - Other",
+      "Shape",
+      "Simple Materials",
+      "Shape",
+      "Simple Materials",
+      "Camera",
+      "Lighting",
+      "Environment / Background"
+    ],
+    "mechanisms": [],
+    "link": "https://www.realworldvisuals.com/rwv-projects/whats-in-a-phone"
+  },
+  {
+    "id": "ex-048",
+    "title": "Time is Running Out 1",
+    "description": "Video Segment: 0:08-0:24.",
+    "image": "media/ex-048.png",
+    "method_of_making": "3D render",
+    "animation": "Dynamic",
+    "perceptual_realism": "Intermediate",
+    "encodings": [
+      "Size",
+      "Position"
+    ],
+    "contextual": [
+      "Shape",
+      "Simple Materials",
+      "Spatial Arrangement - Stacking",
+      "Environment / Background",
+      "Camera",
+      "Lighting"
+    ],
+    "mechanisms": [
+      "Fluids"
+    ],
+    "link": "https://www.realworldvisuals.com/rwv-projects/time-is-running-out"
+  },
+  {
+    "id": "ex-049",
+    "title": "Think Globally, Visualise Locally",
+    "description": "Video Segment: 0:43-1:34.",
+    "image": "media/ex-049.png",
+    "method_of_making": "3D render",
+    "animation": "Dynamic",
+    "perceptual_realism": "Intermediate",
+    "encodings": [
+      "Size",
+      "Count",
+      "Size",
+      "Size",
+      "Size"
+    ],
+    "contextual": [
+      "Simple Materials",
+      "Shape",
+      "Spatial Arrangement - Stacking",
+      "Simple Materials",
+      "Shape",
+      "Shape",
+      "Simple Materials",
+      "Position",
+      "Environment / Background",
+      "Camera",
+      "Lighting"
+    ],
+    "mechanisms": [
+      "Rigid-Body Mechanics",
+      "Force Fields & Particles"
+    ],
+    "link": "https://www.realworldvisuals.com/rwv-projects/think-globally-visualise-locally"
+  },
+  {
+    "id": "ex-050",
+    "title": "Coral Cities",
+    "image": "media/ex-050.png",
+    "method_of_making": "3D render",
+    "animation": "Dynamic",
+    "perceptual_realism": "Intermediate",
+    "encodings": [
+      "Size",
+      "Position",
+      "Shape",
+      "Material Transformations"
+    ],
+    "contextual": [
+      "Shape",
+      "Other",
+      "Lighting"
+    ],
+    "mechanisms": [
+      "Growth"
+    ],
+    "link": "https://www.behance.net/gallery/70862691/Coral-Cities-An-Ito-Design-Lab-Concept"
+  },
+  {
+    "id": "ex-051",
+    "title": "Make sense of it all: Mapping Movement",
+    "description": "Segment: Entire Video (12 seconds - at the end of the section \"Visuals\")",
+    "image": "media/ex-051.png",
+    "method_of_making": "3D render",
+    "animation": "Dynamic",
+    "perceptual_realism": "High",
+    "encodings": [
+      "Position",
+      "Count",
+      "Size",
+      "Position",
+      "Spatial Arrangement - Other",
+      "Position",
+      "Position"
+    ],
+    "contextual": [
+      "Simple Materials",
+      "Spatial Arrangement - Packing",
+      "Shape",
+      "Simple Materials",
+      "Spatial Arrangement - Geographical",
+      "Shape",
+      "Simple Materials",
+      "Environment / Background",
+      "Lighting",
+      "Camera"
+    ],
+    "mechanisms": [
+      "Rigid-Body Mechanics"
+    ],
+    "link": "https://www.behance.net/gallery/162831571/Make-sense-of-it-all-Mapping-Movement"
+  },
+  {
+    "id": "ex-052",
+    "title": "Where is My Bus Filling",
+    "description": "Entire Video (at the bottom of the article)",
+    "image": "media/ex-052.png",
+    "method_of_making": "3D render",
+    "animation": "Dynamic",
+    "perceptual_realism": "High",
+    "encodings": [
+      "Count",
+      "Size",
+      "Position",
+      "Size",
+      "Position",
+      "Position",
+      "Position"
+    ],
+    "contextual": [
+      "Simple Materials",
+      "Shape",
+      "Position",
+      "Spatial Arrangement - Concentration",
+      "Shape",
+      "Simple Materials",
+      "Spatial Arrangement - Path",
+      "Spatial Arrangement - Path",
+      "Environment / Background",
+      "Camera",
+      "Lighting"
+    ],
+    "mechanisms": [
+      "Living Movement",
+      "Rigid-Body Mechanics"
+    ],
+    "link": "https://www.behance.net/gallery/184974961/TransitVizThursday-Innovative-Transit-DataViz#"
+  },
+  {
+    "id": "ex-053",
+    "title": "Forestry Management Corruption",
+    "image": "media/ex-053.png",
+    "method_of_making": "3D render",
+    "animation": "Static",
+    "perceptual_realism": "High",
+    "encodings": [
+      "Position",
+      "Position"
+    ],
+    "contextual": [
+      "Simple Materials",
+      "Shape",
+      "Simple Materials",
+      "Shape",
+      "Camera",
+      "Lighting"
+    ],
+    "mechanisms": [],
+    "link": "https://www.behance.net/gallery/17843207/Forestry-3D-infographics?tracking_source=search_projects|3d+infographic&l=152"
+  },
+  {
+    "id": "ex-054",
+    "title": "Commuter Flowers",
+    "image": "media/ex-054.png",
+    "method_of_making": "3D render",
+    "animation": "Static",
+    "perceptual_realism": "High",
+    "encodings": [
+      "Position",
+      "Orientation",
+      "Size",
+      "Material Transformations",
+      "Position",
+      "Simple Materials",
+      "Position"
+    ],
+    "contextual": [
+      "Shape",
+      "Spatial Arrangement - Geographical",
+      "Lighting",
+      "Environment / Background"
+    ],
+    "mechanisms": [],
+    "link": "https://www.behance.net/gallery/136828809/Commuter-Flowers"
+  },
+  {
+    "id": "ex-055",
+    "title": "World Wealth Distribution",
+    "description": "Segment: entire video",
+    "image": "media/ex-055.png",
+    "method_of_making": "3D render",
+    "animation": "Dynamic",
+    "perceptual_realism": "High",
+    "encodings": [
+      "Count",
+      "Size",
+      "Simple Materials",
+      "Position",
+      "Count",
+      "Size"
+    ],
+    "contextual": [
+      "Simple Materials",
+      "Shape",
+      "Position",
+      "Spatial Arrangement - Packing",
+      "Spatial Arrangement - Packing",
+      "Shape",
+      "Simple Materials",
+      "Spatial Arrangement - Alignment",
+      "Camera",
+      "Lighting",
+      "Environment / Background"
+    ],
+    "mechanisms": [
+      "Rigid-Body Mechanics",
+      "Rigid-Body Mechanics",
+      "Rigid-Body Mechanics",
+      "Rigid-Body Mechanics"
+    ],
+    "link": "https://www.youtube.com/shorts/itRcmiAQRho"
+  },
+  {
+    "id": "ex-056",
+    "title": "Fibers",
+    "description": "Entire Video",
+    "image": "media/ex-056.png",
+    "method_of_making": "3D render",
+    "animation": "Dynamic",
+    "perceptual_realism": "Intermediate",
+    "encodings": [
+      "Size",
+      "Simple Materials",
+      "Size",
+      "Position",
+      "Shape"
+    ],
+    "contextual": [
+      "Shape",
+      "Simple Materials",
+      "Spatial Arrangement - Other",
+      "Camera",
+      "Environment / Background",
+      "Lighting"
+    ],
+    "mechanisms": [
+      "Self-onrganization & Patterns"
+    ],
+    "link": "https://variable.io/fibers/"
+  },
+  {
+    "id": "ex-057",
+    "title": "Cost of Living in LA",
+    "image": "media/ex-057.png",
+    "method_of_making": "Graphic design - Illustration",
+    "animation": "Static",
+    "perceptual_realism": "Intermediate",
+    "encodings": [
+      "Size",
+      "Material Transformations",
+      "Other",
+      "Position"
+    ],
+    "contextual": [
+      "Spatial Arrangement - Other"
+    ],
+    "mechanisms": [],
+    "link": "https://www.behance.net/gallery/134157179/Data-Doodles-2021#"
+  },
+  {
+    "id": "ex-058",
+    "title": "The Gradient of Naturality",
+    "image": "media/ex-058.png",
+    "method_of_making": "3D render",
+    "animation": "Static",
+    "perceptual_realism": "High",
+    "encodings": [
+      "Position",
+      "Size",
+      "Simple Materials",
+      "Size",
+      "Position"
+    ],
+    "contextual": [
+      "Shape",
+      "Shape",
+      "Spatial Arrangement - Geographical",
+      "Lighting",
+      "Camera"
+    ],
+    "mechanisms": [],
+    "link": "https://www.behance.net/lavergneflor?tracking_source=for_you_logged_in_feed_recommended"
+  },
+  {
+    "id": "ex-059",
+    "title": "The Growing Problem of Mining Tailings",
+    "image": "media/ex-059.png",
+    "method_of_making": "Graphic design - Illustration",
+    "animation": "Static",
+    "perceptual_realism": "High",
+    "encodings": [
+      "Size",
+      "Position",
+      "Simple Materials",
+      "Size",
+      "Size"
+    ],
+    "contextual": [
+      "Shape",
+      "Simple Materials",
+      "Spatial Arrangement - Other",
+      "Environment / Background",
+      "Camera",
+      "Lighting"
+    ],
+    "mechanisms": [
+      "Fluids",
+      "Fluids"
+    ],
+    "link": "https://www.voronoiapp.com/natural-resources/The-Growing-Problem-of-Mining-Tailings-Visualized-7024"
+  },
+  {
+    "id": "ex-060",
+    "title": "How much water do we consume in 70 years",
+    "description": "Segment: entire video",
+    "image": "media/ex-060.png",
+    "method_of_making": "3D render",
+    "animation": "Dynamic",
+    "perceptual_realism": "High",
+    "encodings": [
+      "Size",
+      "Position",
+      "Size"
+    ],
+    "contextual": [
+      "Simple Materials",
+      "Shape",
+      "Spatial Arrangement - Alignment",
+      "Shape",
+      "Simple Materials",
+      "Camera",
+      "Environment / Background",
+      "Lighting"
+    ],
+    "mechanisms": [],
+    "link": "https://www.youtube.com/shorts/J8UtBisJsq0"
+  },
+  {
+    "id": "ex-061",
+    "title": "Per capita freshwater withdrawal",
+    "image": "media/ex-061.png",
+    "method_of_making": "Photograph of physical artefact",
+    "animation": "Static",
+    "perceptual_realism": "High",
+    "encodings": [
+      "Size",
+      "Inflate / Deflate",
+      "Position"
+    ],
+    "contextual": [
+      "Shape",
+      "Simple Materials",
+      "Shape",
+      "Simple Materials",
+      "Spatial Arrangement - Alignment",
+      "Environment / Background",
+      "Lighting",
+      "Camera"
+    ],
+    "mechanisms": [],
+    "link": "https://www.circleofblue.org/2011/world/infographic-freshwater-withdrawal-by-g7-country/"
+  },
+  {
+    "id": "ex-062",
+    "title": "The Tallest Tress in the World",
+    "image": "media/ex-062.png",
+    "method_of_making": "3D render",
+    "animation": "Dynamic",
+    "perceptual_realism": "High",
+    "encodings": [
+      "Size",
+      "Position",
+      "Size"
+    ],
+    "contextual": [
+      "Shape",
+      "Simple Materials",
+      "Other",
+      "Spatial Arrangement - Other",
+      "Simple Materials",
+      "Shape",
+      "Position",
+      "Environment / Background",
+      "Camera",
+      "Lighting"
+    ],
+    "mechanisms": [
+      "Growth",
+      "Living Movement",
+      "Living Movement"
+    ],
+    "link": "https://www.youtube.com/watch?v=-6-ADt4Ijxc"
+  },
+  {
+    "id": "ex-063",
+    "title": "Hurricane Size Comparison",
+    "description": "Entire video",
+    "image": "media/ex-063.png",
+    "method_of_making": "3D render",
+    "animation": "Dynamic",
+    "perceptual_realism": "High",
+    "encodings": [
+      "Size",
+      "Position"
+    ],
+    "contextual": [
+      "Orientation",
+      "Shape",
+      "Simple Materials",
+      "Spatial Arrangement - Geographical",
+      "Lighting",
+      "Environment / Background",
+      "Camera"
+    ],
+    "mechanisms": [
+      "Wind"
+    ],
+    "link": "https://www.youtube.com/watch?v=5AnxAHZ81Uk"
+  },
+  {
+    "id": "ex-064",
+    "title": "OG:CRYSTALS",
+    "description": "Each crystal represents the history of its transactions. It starts with a seed by the original buyer. Then a new part is generated every time the crystal is sold, based on the new each owner's wallet ID and history.",
+    "image": "media/ex-064.png",
+    "method_of_making": "3D render",
+    "animation": "Static",
+    "perceptual_realism": "High",
+    "encodings": [
+      "Simple Materials",
+      "Shape",
+      "Count",
+      "Other"
+    ],
+    "contextual": [
+      "Spatial Arrangement - Other",
+      "Lighting",
+      "Spatial Arrangement - Other"
+    ],
+    "mechanisms": [
+      "Other"
+    ],
+    "link": "https://ogcrystals.com/"
+  },
+  {
+    "id": "ex-065",
+    "title": "Geothermal energy potential in the US",
+    "image": "media/ex-065.png",
+    "method_of_making": "Graphic design - Illustration",
+    "animation": "Static",
+    "perceptual_realism": "Low",
+    "encodings": [
+      "Position",
+      "Position",
+      "Material Transformations"
+    ],
+    "contextual": [
+      "Spatial Arrangement - Alignment",
+      "Environment / Background",
+      "Lighting"
+    ],
+    "mechanisms": [],
+    "link": "https://www.behance.net/gallery/224105907/Escape-Velocity-Climate-Series-for-Vox?tracking_source=search_projects|procedural+data&l=97"
+  },
+  {
+    "id": "ex-066",
+    "title": "Representation of the World Population",
+    "description": "Segment: entire video",
+    "image": "media/ex-066.png",
+    "method_of_making": "3D render",
+    "animation": "Dynamic",
+    "perceptual_realism": "Intermediate",
+    "encodings": [
+      "Size",
+      "Simple Materials",
+      "Position"
+    ],
+    "contextual": [
+      "Orientation",
+      "Shape",
+      "Spatial Arrangement - Geographical",
+      "Lighting",
+      "Camera"
+    ],
+    "mechanisms": [
+      "Rigid-Body Mechanics"
+    ],
+    "link": "https://www.youtube.com/shorts/uJjQDEVmr5Y"
+  },
+  {
+    "id": "ex-067",
+    "title": "Growth Speed Comparison of Common Plants",
+    "description": "Entire Video",
+    "image": "media/ex-067.png",
+    "method_of_making": "Other",
+    "animation": "Dynamic",
+    "perceptual_realism": "Intermediate",
+    "encodings": [
+      "Other",
+      "Size",
+      "Simple Materials",
+      "Shape",
+      "Size"
+    ],
+    "contextual": [
+      "Spatial Arrangement - Other",
+      "Camera",
+      "Lighting",
+      "Environment / Background"
+    ],
+    "mechanisms": [],
+    "link": "https://www.instagram.com/p/DRctzDGCI4-/"
+  },
+  {
+    "id": "ex-068",
+    "title": "Star's Color and Temperature",
+    "description": "Entire Video",
+    "image": "media/ex-068.png",
+    "method_of_making": "3D render",
+    "animation": "Dynamic",
+    "perceptual_realism": "High",
+    "encodings": [
+      "Simple Materials"
+    ],
+    "contextual": [
+      "Shape",
+      "Simple Materials",
+      "Orientation",
+      "Environment / Background",
+      "Camera"
+    ],
+    "mechanisms": [
+      "Rigid-Body Mechanics"
+    ],
+    "link": "https://www.instagram.com/p/DR4assPCKUG/"
+  },
+  {
+    "id": "ex-069",
+    "title": "Fossil fuels - The rate we Use Them",
+    "description": "Segment: 0:25-0:51",
+    "image": "media/ex-069.png",
+    "method_of_making": "3D render",
+    "animation": "Dynamic",
+    "perceptual_realism": "High",
+    "encodings": [
+      "Size",
+      "Size"
+    ],
+    "contextual": [
+      "Simple Materials",
+      "Other",
+      "Environment / Background",
+      "Camera",
+      "Lighting"
+    ],
+    "mechanisms": [
+      "Fluids"
+    ],
+    "link": "https://www.youtube.com/watch?v=CmR8zSE8k1I"
+  },
+  {
+    "id": "ex-070",
+    "title": "Rockslide Festival Activity",
+    "image": "media/ex-070.png",
+    "method_of_making": "3D render",
+    "animation": "Dynamic",
+    "perceptual_realism": "Low",
+    "encodings": [
+      "Position",
+      "Position",
+      "Simple Materials",
+      "Material Transformations",
+      "Position"
+    ],
+    "contextual": [
+      "Spatial Arrangement - Geographical",
+      "Environment / Background",
+      "Camera"
+    ],
+    "mechanisms": [],
+    "link": "https://variable.io/festival-activity/"
+  },
+  {
+    "id": "ex-071",
+    "title": "Metamorphose – Overgrowing Hate",
+    "description": "Video Segment: 0:55-1:20\nFlowers grow when a new toxic word is detected.\nThe type of the toxic word is encoded by the type of flower.",
+    "image": "media/ex-071.png",
+    "method_of_making": "3D render",
+    "animation": "Dynamic",
+    "perceptual_realism": "Intermediate",
+    "encodings": [
+      "Shape",
+      "Simple Materials",
+      "Position",
+      "Orientation"
+    ],
+    "contextual": [
+      "Other",
+      "Spatial Arrangement - Other",
+      "Camera",
+      "Lighting"
+    ],
+    "mechanisms": [
+      "Growth",
+      "Self-onrganization & Patterns"
+    ],
+    "link": "https://www.behance.net/gallery/138626999/metamorphose-overgrowing-hate?tracking_source=search_projects|data+sculpture&l=81"
+  },
+  {
+    "id": "ex-072",
+    "title": "Tallest Rocket Ever Built",
+    "description": "Entire Video",
+    "image": "media/ex-072.png",
+    "method_of_making": "3D render",
+    "animation": "Dynamic",
+    "perceptual_realism": "High",
+    "encodings": [
+      "Position",
+      "Size",
+      "Shape",
+      "Simple Materials",
+      "Simple Materials"
+    ],
+    "contextual": [
+      "Other",
+      "Simple Materials",
+      "Spatial Arrangement - Alignment",
+      "Environment / Background",
+      "Camera",
+      "Lighting"
+    ],
+    "mechanisms": [
+      "Deformable Solid Mechanics"
+    ],
+    "link": "https://www.instagram.com/p/DRj52LlDVFX/"
+  },
+  {
+    "id": "ex-073",
+    "title": "Drowning in Plastic",
+    "description": "Segment: Entire Video",
+    "image": "media/ex-073.png",
+    "method_of_making": "3D render",
+    "animation": "Dynamic",
+    "perceptual_realism": "Intermediate",
+    "encodings": [
+      "Size",
+      "Count",
+      "Size"
+    ],
+    "contextual": [
+      "Shape",
+      "Simple Materials",
+      "Position",
+      "Spatial Arrangement - Stacking",
+      "Shape",
+      "Simple Materials",
+      "Camera"
+    ],
+    "mechanisms": [
+      "Rigid-Body Mechanics",
+      "Rigid-Body Mechanics"
+    ],
+    "link": "https://www.reuters.com/graphics/ENVIRONMENT-PLASTIC/0100B275155/"
+  },
+  {
+    "id": "ex-074",
+    "title": "How Many Planets Fit Inside the Sun",
+    "description": "Do we include the container in the collection or code it as separate visual element?",
+    "image": "media/ex-074.png",
+    "method_of_making": "3D render",
+    "animation": "Dynamic",
+    "perceptual_realism": "Intermediate",
+    "encodings": [
+      "Simple Materials",
+      "Size",
+      "Size",
+      "Count",
+      "Size"
+    ],
+    "contextual": [
+      "Position",
+      "Shape",
+      "Orientation",
+      "Simple Materials",
+      "Shape",
+      "Spatial Arrangement - Packing",
+      "Environment / Background",
+      "Lighting",
+      "Camera"
+    ],
+    "mechanisms": [
+      "Rigid-Body Mechanics",
+      "Rigid-Body Mechanics",
+      "Rigid-Body Mechanics"
+    ],
+    "link": "https://www.instagram.com/p/DGimqdiNrD2/"
+  },
+  {
+    "id": "ex-075",
+    "title": "Animal Heartbeats",
+    "description": "Entire Video",
+    "image": "media/ex-075.png",
+    "method_of_making": "3D render",
+    "animation": "Dynamic",
+    "perceptual_realism": "High",
+    "encodings": [
+      "Size",
+      "Position",
+      "Simple Materials",
+      "Other"
+    ],
+    "contextual": [
+      "Simple Materials",
+      "Shape",
+      "Simple Materials",
+      "Shape",
+      "Other",
+      "Position",
+      "Shape",
+      "Position",
+      "Position",
+      "Spatial Arrangement - Alignment",
+      "Lighting",
+      "Environment / Background",
+      "Camera"
+    ],
+    "mechanisms": [
+      "Wind"
+    ],
+    "link": "https://www.youtube.com/watch?v=bjHDI3LkI5A"
+  },
+  {
+    "id": "ex-076",
+    "title": "Surreal Speed Comparison",
+    "description": "Segment: Entire Video",
+    "image": "media/ex-076.png",
+    "method_of_making": "3D render",
+    "animation": "Dynamic",
+    "perceptual_realism": "High",
+    "encodings": [
+      "Position",
+      "Shape",
+      "Simple Materials",
+      "Size",
+      "Other",
+      "Position"
+    ],
+    "contextual": [
+      "Shape",
+      "Simple Materials",
+      "Spatial Arrangement - Other",
+      "Environment / Background",
+      "Camera",
+      "Lighting"
+    ],
+    "mechanisms": [
+      "Living Movement"
+    ],
+    "link": "https://www.youtube.com/watch?v=Y-y3lYFAPQk"
+  },
+  {
+    "id": "ex-077",
+    "title": "Asteroids Size Comparison",
+    "description": "Segment: Entire video",
+    "image": "media/ex-077.png",
+    "method_of_making": "3D render",
+    "animation": "Dynamic",
+    "perceptual_realism": "High",
+    "encodings": [
+      "Size",
+      "Shape",
+      "Size"
+    ],
+    "contextual": [
+      "Shape",
+      "Simple Materials",
+      "Break / Shatter",
+      "Spatial Arrangement - Alignment",
+      "Shape",
+      "Simple Materials",
+      "Environment / Background",
+      "Camera",
+      "Lighting"
+    ],
+    "mechanisms": [],
+    "link": "https://www.youtube.com/watch?v=p7HFxlm62As"
+  },
+  {
+    "id": "ex-078",
+    "title": "Births and Deaths Rate",
+    "description": "Segment: 0:26-2:29\n\nFrom the description: \"At standard pressure and 59 °F a metric ton of carbon dioxide gas would fill a sphere 33 feet across (density of CO₂ = 1.87 kg/m³: http://bit.ly/CO2_datasheet). If this is how New York's emissions actually emerged we would see one of these spheres emerge every 0.58 seconds.\"",
+    "image": "media/ex-078.png",
+    "method_of_making": "3D render",
+    "animation": "Dynamic",
+    "perceptual_realism": "Intermediate",
+    "encodings": [
+      "Simple Materials",
+      "Count",
+      "Count"
+    ],
+    "contextual": [
+      "Position",
+      "Other",
+      "Spatial Arrangement - Stacking",
+      "Environment / Background",
+      "Camera",
+      "Lighting"
+    ],
+    "mechanisms": [
+      "Rigid-Body Mechanics",
+      "Rigid-Body Mechanics",
+      "Rigid-Body Mechanics"
+    ],
+    "link": "https://www.youtube.com/watch?v=bIAF7kBbGKk"
+  },
+  {
+    "id": "ex-079",
+    "title": "Elephant Rocket Fuel",
+    "description": "Segment: Entire video",
+    "image": "media/ex-079.png",
+    "method_of_making": "3D render",
+    "animation": "Dynamic",
+    "perceptual_realism": "Intermediate",
+    "encodings": [
+      "Shape",
+      "Count",
+      "Spatial Arrangement - Scattering"
+    ],
+    "contextual": [
+      "Spatial Arrangement - Scattering",
+      "Shape",
+      "Simple Materials",
+      "Size",
+      "Position",
+      "Shape",
+      "Simple Materials"
+    ],
+    "mechanisms": [
+      "Other"
+    ],
+    "link": "https://www.youtube.com/watch?v=X4iMeKif488"
+  },
+  {
+    "id": "ex-080",
+    "title": "Human Visits to Space",
+    "description": "Segment: Entire video",
+    "image": "media/ex-080.png",
+    "method_of_making": "3D render",
+    "animation": "Dynamic",
+    "perceptual_realism": "Intermediate",
+    "encodings": [
+      "Count"
+    ],
+    "contextual": [
+      "Shape",
+      "Simple Materials",
+      "Position",
+      "Environment / Background",
+      "Orientation",
+      "Lighting"
+    ],
+    "mechanisms": [
+      "Rigid-Body Mechanics",
+      "Rigid-Body Mechanics"
+    ],
+    "link": "https://www.instagram.com/p/DJB4PMriKLa/"
+  },
+  {
+    "id": "ex-081",
+    "title": "New York City's Greenhouse Gas Emissions",
+    "description": "Segment: 0:24-2:34",
+    "image": "media/ex-081.png",
+    "method_of_making": "3D render",
+    "animation": "Dynamic",
+    "perceptual_realism": "Intermediate",
+    "encodings": [
+      "Size",
+      "Count",
+      "Size",
+      "Size",
+      "Position"
+    ],
+    "contextual": [
+      "Simple Materials",
+      "Shape",
+      "Position",
+      "Spatial Arrangement - Stacking",
+      "Shape",
+      "Simple Materials",
+      "Shape",
+      "Simple Materials",
+      "Position",
+      "Environment / Background",
+      "Camera",
+      "Lighting"
+    ],
+    "mechanisms": [
+      "Force Fields & Particles",
+      "Rigid-Body Mechanics",
+      "Other"
+    ],
+    "link": "https://www.youtube.com/watch?v=DtqSIplGXOA"
+  },
+  {
+    "id": "ex-082",
+    "title": "Number of deaths in the WW2",
+    "description": "Segment: entire video",
+    "image": "media/ex-082.png",
+    "method_of_making": "3D render",
+    "animation": "Dynamic",
+    "perceptual_realism": "Intermediate",
+    "encodings": [
+      "Size",
+      "Size",
+      "Count",
+      "Position",
+      "Size",
+      "Simple Materials",
+      "Shape"
+    ],
+    "contextual": [
+      "Shape",
+      "Simple Materials",
+      "Spatial Arrangement - Stacking",
+      "Spatial Arrangement - Alignment",
+      "Shape",
+      "Camera",
+      "Lighting"
+    ],
+    "mechanisms": [
+      "Rigid-Body Mechanics"
+    ],
+    "link": "https://www.youtube.com/watch?v=7cgRwDkP6vk"
+  },
+  {
+    "id": "ex-083",
+    "title": "Garbage Dumps in the Ocean Total",
+    "description": "Video Segment: First 3 seconds of the animation.",
+    "image": "media/ex-083.png",
+    "method_of_making": "3D render",
+    "animation": "Dynamic",
+    "perceptual_realism": "Intermediate",
+    "encodings": [
+      "Count",
+      "Size"
+    ],
+    "contextual": [
+      "Simple Materials",
+      "Shape",
+      "Orientation",
+      "Position",
+      "Spatial Arrangement - Scattering",
+      "Shape",
+      "Simple Materials",
+      "Other",
+      "Lighting",
+      "Camera"
+    ],
+    "mechanisms": [
+      "Rigid-Body Mechanics",
+      "Rigid-Body Mechanics",
+      "Fluids"
+    ],
+    "link": "https://scicom-lab.com/project/explore-the-ocean"
+  },
+  {
+    "id": "ex-084",
+    "title": "Visualizing the World’s Largest Cloud Service Providers",
+    "image": "media/ex-084.png",
+    "method_of_making": "Graphic design - Illustration",
+    "animation": "Static",
+    "perceptual_realism": "Low",
+    "encodings": [
+      "Size",
+      "Position",
+      "Size"
+    ],
+    "contextual": [
+      "Simple Materials",
+      "Shape",
+      "Shape",
+      "Spatial Arrangement - Packing",
+      "Shape",
+      "Simple Materials",
+      "Environment / Background",
+      "Lighting"
+    ],
+    "mechanisms": [],
+    "link": "https://www.voronoiapp.com/technology/Visualizing-the-Worlds-Largest-Cloud-Service-Providers-6444"
+  },
+  {
+    "id": "ex-085",
+    "title": "Europe's $2 Trillion Infrastructure Investment Deficit",
+    "image": "media/ex-085.png",
+    "method_of_making": "Graphic design - Illustration",
+    "animation": "Static",
+    "perceptual_realism": "Low",
+    "encodings": [
+      "Size",
+      "Position",
+      "Break / Shatter"
+    ],
+    "contextual": [
+      "Shape",
+      "Simple Materials",
+      "Spatial Arrangement - Alignment"
+    ],
+    "mechanisms": [],
+    "link": "https://www.voronoiapp.com/economy/Charted-Europes-2-Trillion-Infrastructure-Investment-Deficit-5965"
+  },
+  {
+    "id": "ex-086",
+    "title": "Number of Satellites",
+    "description": "Segment: entire video",
+    "image": "media/ex-086.png",
+    "method_of_making": "3D render",
+    "animation": "Dynamic",
+    "perceptual_realism": "High",
+    "encodings": [
+      "Count",
+      "Density"
+    ],
+    "contextual": [
+      "Simple Materials",
+      "Position",
+      "Shape",
+      "Shape",
+      "Simple Materials",
+      "Orientation",
+      "Environment / Background",
+      "Lighting"
+    ],
+    "mechanisms": [
+      "Optics",
+      "Rigid-Body Mechanics",
+      "Rigid-Body Mechanics"
+    ],
+    "link": "https://www.instagram.com/p/DKhMXuTKNk7/"
+  },
+  {
+    "id": "ex-087",
+    "title": "Planet Light Orbit",
+    "description": "Entire Video",
+    "image": "media/ex-087.png",
+    "method_of_making": "3D render",
+    "animation": "Dynamic",
+    "perceptual_realism": "High",
+    "encodings": [
+      "Simple Materials",
+      "Orientation",
+      "Position",
+      "Position"
+    ],
+    "contextual": [
+      "Shape",
+      "Simple Materials",
+      "Simple Materials",
+      "Shape",
+      "Spatial Arrangement - Other",
+      "Environment / Background",
+      "Camera",
+      "Lighting"
+    ],
+    "mechanisms": [
+      "Rigid-Body Mechanics"
+    ],
+    "link": "https://www.instagram.com/p/DIy-jtaIEGX/"
+  },
+  {
+    "id": "ex-088",
+    "title": "How Many Moons",
+    "description": "Segment: Entire video",
+    "image": "media/ex-088.png",
+    "method_of_making": "3D render",
+    "animation": "Dynamic",
+    "perceptual_realism": "Intermediate",
+    "encodings": [
+      "Simple Materials",
+      "Orientation",
+      "Count",
+      "Density",
+      "Position"
+    ],
+    "contextual": [
+      "Shape",
+      "Simple Materials",
+      "Position",
+      "Shape",
+      "Spatial Arrangement - Path",
+      "Spatial Arrangement - Other",
+      "Environment / Background",
+      "Lighting",
+      "Camera"
+    ],
+    "mechanisms": [
+      "Rigid-Body Mechanics"
+    ],
+    "link": "https://www.instagram.com/p/DIlsIMCoaQo/"
+  },
+  {
+    "id": "ex-089",
+    "title": "Technology Garden - Matches",
+    "description": "Segment: Entire video",
+    "image": "media/ex-089.png",
+    "method_of_making": "3D render",
+    "animation": "Dynamic",
+    "perceptual_realism": "Intermediate",
+    "encodings": [
+      "Shape",
+      "Position",
+      "Orientation",
+      "Position",
+      "Position",
+      "Size"
+    ],
+    "contextual": [
+      "Simple Materials",
+      "Shape",
+      "Spatial Arrangement - Path",
+      "Spatial Arrangement - Path",
+      "Shape",
+      "Simple Materials",
+      "Spatial Arrangement - Path",
+      "Camera"
+    ],
+    "mechanisms": [
+      "Growth",
+      "Growth",
+      "Growth"
+    ],
+    "link": "https://variable.io/ibm-technology-garden/"
+  },
+  {
+    "id": "ex-090",
+    "title": "Technology Garden - Weather",
+    "description": "Entire Video\nBetter weather conditions -> more blooming\nMore wind -> more swaying\nHigher temperature -> more saturated colors",
+    "image": "media/ex-090.png",
+    "method_of_making": "3D render",
+    "animation": "Dynamic",
+    "perceptual_realism": "Intermediate",
+    "encodings": [
+      "Other",
+      "Simple Materials",
+      "Other"
+    ],
+    "contextual": [
+      "Simple Materials",
+      "Shape",
+      "Camera",
+      "Lighting"
+    ],
+    "mechanisms": [],
+    "link": "https://variable.io/ibm-technology-garden/"
+  },
+  {
+    "id": "ex-091",
+    "title": "Softness Simulation",
+    "description": "Segment: entire video",
+    "image": "media/ex-091.png",
+    "method_of_making": "3D render",
+    "animation": "Dynamic",
+    "perceptual_realism": "High",
+    "encodings": [
+      "Break / Shatter",
+      "Stretch",
+      "Position",
+      "Break / Shatter"
+    ],
+    "contextual": [
+      "Simple Materials",
+      "Shape",
+      "Shape",
+      "Simple Materials",
+      "Environment / Background",
+      "Camera",
+      "Lighting"
+    ],
+    "mechanisms": [],
+    "link": "https://www.youtube.com/shorts/ihwqYwqOAKM"
+  },
+  {
+    "id": "ex-092",
+    "title": "Total Mass of Biosphere",
+    "description": "Entire video",
+    "image": "media/ex-092.png",
+    "method_of_making": "3D render",
+    "animation": "Dynamic",
+    "perceptual_realism": "Intermediate",
+    "encodings": [
+      "Size",
+      "Simple Materials",
+      "Position",
+      "Size"
+    ],
+    "contextual": [
+      "Shape",
+      "Size",
+      "Orientation",
+      "Spatial Arrangement - Other",
+      "Shape",
+      "Simple Materials",
+      "Environment / Background",
+      "Camera",
+      "Lighting"
+    ],
+    "mechanisms": [
+      "Rigid-Body Mechanics",
+      "Rigid-Body Mechanics"
+    ],
+    "link": "https://www.youtube.com/shorts/YpZG8TsyGb0"
+  },
+  {
+    "id": "ex-093",
+    "title": "Antibiotics Consumption Levels in Europe",
+    "image": "media/ex-093.png",
+    "method_of_making": "3D render",
+    "animation": "Static",
+    "perceptual_realism": "High",
+    "encodings": [
+      "Size",
+      "Position",
+      "Simple Materials"
+    ],
+    "contextual": [
+      "Shape",
+      "Simple Materials",
+      "Shape",
+      "Spatial Arrangement - Alignment",
+      "Simple Materials",
+      "Shape",
+      "Simple Materials",
+      "Shape",
+      "Camera",
+      "Lighting"
+    ],
+    "mechanisms": [],
+    "link": "https://chitchart.com/chart/antibiotics-consumption-levels-europe"
+  },
+  {
+    "id": "ex-094",
+    "title": "Microorganisms in Perspective",
+    "description": "Entire video.",
+    "image": "media/ex-094.png",
+    "method_of_making": "3D render",
+    "animation": "Dynamic",
+    "perceptual_realism": "High",
+    "encodings": [
+      "Size",
+      "Simple Materials",
+      "Position",
+      "Size"
+    ],
+    "contextual": [
+      "Other",
+      "Spatial Arrangement - Alignment",
+      "Shape",
+      "Simple Materials",
+      "Lighting",
+      "Environment / Background",
+      "Camera"
+    ],
+    "mechanisms": [
+      "Living Movement"
+    ],
+    "link": "https://www.youtube.com/watch?v=uIGOOcrT86A"
+  },
+  {
+    "id": "ex-095",
+    "title": "The Biggest Buildings That Do Not Exist",
+    "description": "Entire video",
+    "image": "media/ex-095.png",
+    "method_of_making": "3D render",
+    "animation": "Dynamic",
+    "perceptual_realism": "High",
+    "encodings": [
+      "Shape",
+      "Simple Materials",
+      "Size",
+      "Position",
+      "Simple Materials",
+      "Size"
+    ],
+    "contextual": [
+      "Shape",
+      "Simple Materials",
+      "Spatial Arrangement - Other",
+      "Environment / Background",
+      "Lighting",
+      "Camera"
+    ],
+    "mechanisms": [],
+    "link": "https://www.youtube.com/watch?v=B3xW1w1hfH0"
+  },
+  {
+    "id": "ex-096",
+    "title": "World in Slices",
+    "image": "media/ex-096.png",
+    "method_of_making": "Graphic design - Illustration",
+    "animation": "Static",
+    "perceptual_realism": "High",
+    "encodings": [
+      "Size",
+      "Segment / Cut",
+      "Position"
+    ],
+    "contextual": [
+      "Shape",
+      "Simple Materials",
+      "Spatial Arrangement - Other",
+      "Shape",
+      "Simple Materials",
+      "Lighting",
+      "Camera"
+    ],
+    "mechanisms": [],
+    "link": "https://chitchart.com/chart/bread-consumption-country"
+  },
+  {
+    "id": "ex-097",
+    "title": "Smallpox Deaths",
+    "description": "Segment: 8:09-8:40",
+    "image": "media/ex-097.png",
+    "method_of_making": "3D render",
+    "animation": "Dynamic",
+    "perceptual_realism": "Intermediate",
+    "encodings": [
+      "Size",
+      "Simple Materials",
+      "Other",
+      "Position"
+    ],
+    "contextual": [
+      "Spatial Arrangement - Other",
+      "Spatial Arrangement - Other",
+      "Camera",
+      "Lighting"
+    ],
+    "mechanisms": [],
+    "link": "https://www.youtube.com/watch?v=ybVZ7vluYhQ"
+  },
+  {
+    "id": "ex-098",
+    "title": "Billionaires Earnings",
+    "image": "media/ex-098.png",
+    "method_of_making": "3D render",
+    "animation": "Dynamic",
+    "perceptual_realism": "High",
+    "encodings": [
+      "Shape",
+      "Simple Materials",
+      "Count",
+      "Size"
+    ],
+    "contextual": [
+      "Other",
+      "Position",
+      "Shape",
+      "Simple Materials",
+      "Position",
+      "Spatial Arrangement - Scattering",
+      "Position",
+      "Spatial Arrangement - Other",
+      "Environment / Background",
+      "Camera",
+      "Lighting"
+    ],
+    "mechanisms": [
+      "Living Movement"
+    ],
+    "link": "https://www.youtube.com/watch?v=QGhmT_Gz8o8"
+  },
+  {
+    "id": "ex-099",
+    "title": "What Creatives Do",
+    "image": "media/ex-099.png",
+    "method_of_making": "Graphic design - Illustration",
+    "animation": "Static",
+    "perceptual_realism": "High",
+    "encodings": [
+      "Size",
+      "Break / Shatter",
+      "Position"
+    ],
+    "contextual": [
+      "Shape",
+      "Simple Materials",
+      "Other",
+      "Simple Materials",
+      "Spatial Arrangement - Other",
+      "Shape",
+      "Simple Materials",
+      "Lighting"
+    ],
+    "mechanisms": [],
+    "link": "https://www.behance.net/gallery/17422299/Clio-Awards#"
+  },
+  {
+    "id": "ex-100",
+    "title": "Europe's Chocolate Consumption",
+    "image": "media/ex-100.png",
+    "method_of_making": "3D render",
+    "animation": "Static",
+    "perceptual_realism": "High",
+    "encodings": [
+      "Size",
+      "Other",
+      "Position"
+    ],
+    "contextual": [
+      "Simple Materials",
+      "Spatial Arrangement - Other"
+    ],
+    "mechanisms": [],
+    "link": "https://www.informationisbeautifulawards.com/showcase/2564-this-is-not-a-graph-ceci-n-est-pas-un-graph"
+  },
+  {
+    "id": "ex-101",
+    "title": "How Much Power Do Data Centers Use",
+    "image": "media/ex-101.jpg",
+    "method_of_making": "Graphic design - Illustration",
+    "animation": "Static",
+    "perceptual_realism": "Low",
+    "encodings": [
+      "Size",
+      "Simple Materials",
+      "Position"
+    ],
+    "contextual": [
+      "Shape",
+      "Spatial Arrangement - Stacking",
+      "Shape",
+      "Simple Materials",
+      "Camera"
+    ],
+    "mechanisms": [],
+    "link": "https://www.visualcapitalist.com/how-much-power-do-data-centers-use/"
+  },
+  {
+    "id": "ex-102",
+    "title": "Which Countries Buy the Most US Coal",
+    "image": "media/ex-102.jpg",
+    "method_of_making": "Other",
+    "animation": "Static",
+    "perceptual_realism": "High",
+    "encodings": [
+      "Size",
+      "Break / Shatter",
+      "Position"
+    ],
+    "contextual": [
+      "Shape",
+      "Simple Materials",
+      "Spatial Arrangement - Other",
+      "Lighting",
+      "Environment / Background",
+      "Camera"
+    ],
+    "mechanisms": [],
+    "link": "https://www.visualcapitalist.com/top-countries-buying-u-s-coal/"
+  },
+  {
+    "id": "ex-103",
+    "title": "Countries With the Highest Remittance Costs",
+    "image": "media/ex-103.jpg",
+    "method_of_making": "Graphic design - Illustration",
+    "animation": "Static",
+    "perceptual_realism": "Low",
+    "encodings": [
+      "Size",
+      "Count",
+      "Position"
+    ],
+    "contextual": [
+      "Shape",
+      "Simple Materials",
+      "Spatial Arrangement - Other",
+      "Simple Materials"
+    ],
+    "mechanisms": [
+      "Force Fields & Particles",
+      "Force Fields & Particles"
+    ],
+    "link": "https://www.visualcapitalist.com/sp/pla01-countries-with-the-highest-remittance-costs/"
+  }
+]

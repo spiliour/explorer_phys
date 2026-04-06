@@ -1,0 +1,100 @@
+[
+  {
+    "id": "in_001",
+    "title": "Foam Simulations",
+    "creator": "@kostsov",
+    "profile": "https://www.instagram.com/kostsov/?g=5",
+    "physical": [
+      "Melt",
+      "Stretch"
+    ],
+    "mechanisms": [
+      "Deformable Solid Mechanics",
+      "State Change",
+      "Fluid"
+    ],
+    "link": "https://www.instagram.com/p/DCoTrNZJHEW/",
+    "image": "inspiration/in_001.png"
+  },
+  {
+    "id": "in_002",
+    "title": "Umbra Design",
+    "creator": "@vincentschwenk",
+    "profile": "https://www.instagram.com/vincentschwenk/",
+    "physical": [
+      "Stretch",
+      "Twist"
+    ],
+    "mechanisms": [
+      "Deformable Solid Mechanics"
+    ],
+    "link": "https://www.instagram.com/p/DFvN9PVtpBD/?img_index=1",
+    "image": "inspiration/in_002.png"
+  },
+  {
+    "id": "in_003",
+    "physical": [],
+    "mechanisms": [],
+    "image": "inspiration/in_003.png"
+  },
+  {
+    "id": "in_004",
+    "physical": [],
+    "mechanisms": [],
+    "image": "inspiration/in_004.png"
+  },
+  {
+    "id": "in_005",
+    "physical": [],
+    "mechanisms": [],
+    "image": "inspiration/in_005.png"
+  },
+  {
+    "id": "in_006",
+    "physical": [],
+    "mechanisms": [],
+    "image": "inspiration/in_006.png"
+  },
+  {
+    "id": "in_007",
+    "physical": [],
+    "mechanisms": [],
+    "image": "inspiration/in_007.png"
+  },
+  {
+    "id": "in_008",
+    "physical": [],
+    "mechanisms": [],
+    "image": "inspiration/in_008.png"
+  },
+  {
+    "id": "in_009",
+    "physical": [],
+    "mechanisms": [],
+    "image": "inspiration/in_009.png"
+  },
+  {
+    "id": "in_010",
+    "physical": [],
+    "mechanisms": [],
+    "image": "inspiration/in_010.png"
+  },
+  {
+    "id": "in_011",
+    "physical": [],
+    "mechanisms": [],
+    "image": "inspiration/in_011.png"
+  },
+  {
+    "id": "in_012",
+    "physical": [],
+    "mechanisms": [],
+    "image": "inspiration/in_012.png"
+  },
+  {
+    "id": "in_013",
+    "physical": [],
+    "mechanisms": [],
+    "image": "inspiration/in_013.png"
+  }
+]

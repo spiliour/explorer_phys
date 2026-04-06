@@ -1,0 +1,15 @@
+npm install
+npm run dev
+http://localhost:5173 
+http://localhost:3000
+
+To run the conversion script:
+Open cmd inside the src folder and run: 
+node scripts/csv-to-corpus-json.mjs data/corpus.csv data/corpus.json
+
+node scripts/designspace-xlsx-to-json.mjs data/design_space.xlsx data/designspace.json
+
+npm run build
+npm run preview
+
+ffmpeg -i videos/fluids.gif -vframes 1 design_space_static/fluids.png

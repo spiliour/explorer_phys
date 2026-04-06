@@ -1,0 +1,64 @@
+[
+  {
+    "type": "expandable",
+    "name": "Visualization Type",
+    "subcategories": [
+      {
+        "name": "Method of Making",
+        "options": ["3D render", "Photograph of physical artefact", "Graphic design - Illustration"]
+      },
+      {
+        "name": "Temporality",
+        "options": ["Static", "Dynamic"]
+      }
+    ]
+  },
+  {
+    "type": "expandable",
+    "name": "Physical Attributes",
+    "subcategories": [
+      {
+        "name": "Spatial Attributes",
+        "options": ["Position", "Orientation", "Size"]
+      },
+      {
+        "name": "Geometry Attributes",
+        "options": ["Shape", "Surface"]
+      },
+      {
+        "name": "Material Attributes",
+        "options": ["Simple Materials", "Material Transformations"]
+      },
+      {
+        "name": "Structural Attributes",
+        "options": ["Stretch", "Twist", "Fold / Unfold", "Segment / Cut", "Compress", "Inflate / Deflate", "Bend", "Break / Shatter", "Shrink"]
+      },
+      {
+        "name": "Groups and Populations",
+        "options": ["Count", "Density", "Spatial Arrangement - Alignment", "Spatial Arrangement - Stacking", "Spatial Arrangement - Packing", "Spatial Arrangement - Geographical", "Spatial Arrangement - Concentration", "Spatial Arrangement - Scattering", "Spatial Arrangement - Path"]
+      },
+      {
+        "name": "Framing Attributes",
+        "options": ["Lighting", "Camera", "Environment / Background"]
+      },
+      {
+        "name": "Time Attributes",
+        "options": ["Progression", "Speed", "Rhythm"]
+      }
+    ]
+  },
+  {
+    "type": "expandable",
+    "name": "Implied Physical Mechanisms",
+    "subcategories": [
+      {
+        "name": "Biological Mechanisms",
+        "options": ["Growth", "Decay", "Living Movement", "Infection", "Respiration & Rhythms","Self-organization & Patterns", "Life-Cycle Events"]
+      },
+      {
+        "name": "Physics & Chemical Mechanisms",
+        "options": ["Rigid-Body Mechanics", "Deformable Solid Mechanics", "Fluids", "Burning & Fire", "State Change", "Force Fields & Particles", "Wind", "Waves & Oscillations", "Optics", "Weathering","Beyond-Physics"]
+      }
+    ]
+  }
+]
